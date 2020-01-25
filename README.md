@@ -1,2 +1,2 @@
-# data_science_cases
-Personal cases using open datasets
+# Data Science Cases
+My solutions for data science cases using open datasets
